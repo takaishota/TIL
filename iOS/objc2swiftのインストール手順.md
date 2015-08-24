@@ -19,15 +19,15 @@ gradle -v
 
 
 ```
-systemProp.http.proxyHost=172.18.37.240
-systemProp.http.proxyPort=8080
-systemProp.http.proxyUser=s-takai
-systemProp.http.proxyPassword=T3gikWCz
+systemProp.http.proxyHost=host
+systemProp.http.proxyPort=port
+systemProp.http.proxyUser=user
+systemProp.http.proxyPassword=***
 
-systemProp.https.proxyHost=172.18.37.240
-systemProp.https.proxyPort=8080
-systemProp.https.proxyUser=s-takai
-systemProp.https.proxyPassword=T3gikWCz
+systemProp.https.proxyHost=host
+systemProp.https.proxyPort=port
+systemProp.https.proxyUser=user
+systemProp.https.proxyPassword=***
 ```
 
 * Scalaのインストール
