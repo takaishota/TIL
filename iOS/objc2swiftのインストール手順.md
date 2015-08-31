@@ -22,12 +22,12 @@ gradle -v
 systemProp.http.proxyHost=host
 systemProp.http.proxyPort=port
 systemProp.http.proxyUser=user
-systemProp.http.proxyPassword=***
+systemProp.http.proxyPassword=password
 
 systemProp.https.proxyHost=host
 systemProp.https.proxyPort=port
 systemProp.https.proxyUser=user
-systemProp.https.proxyPassword=***
+systemProp.https.proxyPassword=password
 ```
 
 * Scalaのインストール
@@ -63,6 +63,7 @@ https://github.com/yahoojapan/objc2swift.git
 ```
 
 * サンプルの実行
+objc2swiftディレクトリで以下を実行
 
 ```
 gradle build
