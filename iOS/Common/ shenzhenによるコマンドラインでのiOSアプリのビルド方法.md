@@ -1,7 +1,7 @@
 shenzhenによるコマンドラインでのiOSアプリのビルド方法
 ---
 
-※1 github: https://github.com/nomad/shenzhen
+※1 github: https://github.com/nomad/shenzhen  
 ※2 参考：shenzhenを使って超簡単ipaファイル作成
 http://qiita.com/k_kinukawa/items/8718aba35060cf838ffa
 
